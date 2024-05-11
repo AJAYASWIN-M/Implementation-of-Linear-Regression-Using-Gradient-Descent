@@ -29,8 +29,8 @@ Print the predicted value obtained from the regression analysis.
 ## Program:
 ```
 Program to implement the linear regression using gradient descent.
-Developed by: Gopika R
-RegisterNumber: 212222240031
+Developed by: AJAY ASWIN M
+RegisterNumber: 212222240005
 
 import numpy as np
 import pandas as pd
