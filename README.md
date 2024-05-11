@@ -29,8 +29,8 @@ Display the predicted value for the target variable based on the linear regressi
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: D.B.V.SAI GANESH
-RegisterNumber:  212223240025
+Developed by: AJAY ASWIN M
+RegisterNumber:  21222224005
 */
 import numpy as np
 import pandas as pd
